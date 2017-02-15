@@ -1,5 +1,5 @@
 {
-    "name": "composer/installers",
+    "name": "XRuff/installers",
     "type": "composer-plugin",
     "license": "MIT",
     "description": "A multi-framework Composer library installer",
@@ -41,6 +41,7 @@
         "MODULEWork",
         "Moodle",
         "Piwik",
+        "Opencart",
         "phpBB",
         "Plentymarkets",
         "PPI",
